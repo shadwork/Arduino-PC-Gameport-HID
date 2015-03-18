@@ -2,7 +2,7 @@
 
 Simple Arduino Leonardo project. Allow using old PC joystick with Gameport DB15 interface.
 
-Using modified Arduino USB HID core from [FFmpeg_b4a](http://www.imaginaryindustries.com/blog/?p=80). Link contain files for old Arduino IDE, repo contain new version with slightly modify logging. Replace files from Arduino folder Arduino\hardware\arduino\cores\arduino\ with new version from Arduino_USB_HID_Core (USBAPI.h HID.cpp).
+Using modified Arduino USB HID core from [CONNOR Blog](http://www.imaginaryindustries.com/blog/?p=80). Link contain files for old Arduino IDE, repo contain new version with slightly modify logging. Replace files from Arduino folder Arduino\hardware\arduino\cores\arduino\ with new version from Arduino_USB_HID_Core (USBAPI.h HID.cpp).
 
 Build Arduino shield or using breadboard with schematic from Schematic folder.
 
